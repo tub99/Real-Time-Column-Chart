@@ -40,4 +40,4 @@ This column chart is a data visualization app which  refreshes itself after a pe
 }
 ```
 # The Real Time Column Chart
-<p><img src="screenshot/pic2.PNG"></img></p>
+<p><img src="screenshot/pic2.png"></img></p>
