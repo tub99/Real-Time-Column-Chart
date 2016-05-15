@@ -1,5 +1,6 @@
 # Real-Time-Column-Chart
-This column chart is a data visualization app which  refreshes itself after a period of time and does real time visualization on data provided by  user
+This column chart is a data visualization app which  refreshes itself after a period of time and does real time visualization on data provided by  user.<br>
+take a look at the live analysis at http://tub99.github.io/RealTimeColumnChart/index.html
 
 # User-Configurable properties
     1.title of the chart
